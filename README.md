@@ -5,7 +5,7 @@
 
 ## Demo
 <div align="center">
-   <video src=""></video>
+   <video src="https://github.com/Bilal-Belli/Notely/assets/74218805/6acc6bcc-56cc-4f45-9fde-69af36d77126"></video>
 </div>
 
 ## Technologies
