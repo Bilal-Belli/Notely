@@ -5,7 +5,7 @@
 
 ## Demo
 <div align="center">
-   <video src="https://github.com/Bilal-Belli/Notely/assets/74218805/6acc6bcc-56cc-4f45-9fde-69af36d77126"></video>
+   <video src="https://github.com/Bilal-Belli/Notely/assets/74218805/0306cb54-f5c0-426f-b3ec-2c557d664000"></video>
 </div>
 
 ## Technologies
@@ -21,4 +21,4 @@ This repository is licensed under the ``MIT License``.
 Every collaborator is welcome to contribute to this repository.
 
 ## Next Versions
-I plan to add a timer and integrate some Google APIs, such as Google Translator, and possibly the ChatGPT API, to enable a chatbot when users are focused on reading a paper.
+I plan to add a timer.
